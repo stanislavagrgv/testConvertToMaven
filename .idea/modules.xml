@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/module2/module2.iml" filepath="$PROJECT_DIR$/module2/module2.iml" />
       <module fileurl="file://$PROJECT_DIR$/testConvertToMaven.iml" filepath="$PROJECT_DIR$/testConvertToMaven.iml" />
     </modules>
   </component>
